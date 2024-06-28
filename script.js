@@ -67,7 +67,7 @@ const locations = [
   {
     name: "kill monster",
     "button text": ["Voltar aos campos", "Voltar aos campos", "Voltar aos campos"],
-    "button functions": [goTown, goTown, goTown],
+    "button functions": [goTown, goTown, easterEgg],
     text: 'O monstro faz um som estranho enquanto morre. Você ganhou experiência e achou um pouco de ouro.'
   },
   {
